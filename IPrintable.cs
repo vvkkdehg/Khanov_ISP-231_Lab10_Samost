@@ -1,0 +1,5 @@
+﻿interface IPrintable
+{
+    void PrintInfo();
+    
+}
